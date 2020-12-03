@@ -9,6 +9,7 @@ from __future__ import print_function
 import argparse
 import os
 
+from .px4 import PX4ULog
 from .core import ULog
 
 #pylint: disable=too-many-locals, invalid-name, consider-using-enumerate
@@ -60,6 +61,10 @@ def convert_ulog2csv(ulog_file_name, messages, output, delimiter, disable_str_ex
     data = ulog.data_list
 
     output_file_prefix = ulog_file_name
+
+    px4ulog = PX4ULog(ulog);
+    px4ulog.add_roll_pitch_yaw()
+
     # strip '.ulg'
     if output_file_prefix.lower().endswith('.ulg'):
         output_file_prefix = output_file_prefix[:-4]

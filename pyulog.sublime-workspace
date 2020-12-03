@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PX",
+				"PX4_INFO"
+			],
+			[
+				"sat",
+				"satellites"
+			],
+			[
+				"const",
+				"constexpr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pyulog/ulog2csv.py",
+			"settings":
+			{
+				"buffer_size": 3578,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pyulog/core.py",
+			"settings":
+			{
+				"buffer_size": 33339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pyulog/px4.py",
+			"settings":
+			{
+				"buffer_size": 4257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 5883,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mark/code/pyulog",
+		"/home/mark/code/pyulog/pyulog"
+	],
+	"file_history":
+	[
+		"/home/mark/code/Firmware/boards/px4/fmu-v5/init/rc.board_sensors",
+		"/home/mark/code/Firmware/src/modules/mavlink/mavlink_receiver.cpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/ManualAltitudeSmoothVel/FlightTaskManualAltitudeSmoothVel.hpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/FlightTask/FlightTask.hpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/FlightTask/FlightTask.cpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Offboard/FlightTaskOffboard.cpp",
+		"/home/mark/code/Firmware/src/modules/mc_att_control/AttitudeControl/AttitudeControl.hpp",
+		"/home/mark/code/Firmware/src/modules/mc_att_control/AttitudeControl/AttitudeControl.cpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/ManualAcceleration/FlightTaskManualAcceleration.hpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/ManualAltitudeSmoothVel/FlightTaskManualAltitudeSmoothVel.cpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Utility/ManualVelocitySmoothingZ.hpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Utility/StickYaw.hpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Utility/Sticks.cpp",
+		"/home/mark/code/Firmware/src/lib/matrix/matrix/Matrix.hpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Offboard/FlightTaskOffboard.hpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/ManualAcceleration/FlightTaskManualAcceleration.cpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/CMakeLists.txt",
+		"/home/mark/code/Firmware/src/modules/mc_pos_control/mc_pos_control_params.c",
+		"/home/mark/code/Firmware/src/modules/mc_pos_control/MulticopterPositionControl.hpp",
+		"/home/mark/code/Firmware/src/modules/mc_pos_control/MulticopterPositionControl.cpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/AutoManuever/CMakeLists.txt",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/FlightTasks.hpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/generate_flight_tasks.py",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/FlightTasks.cpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Show/FlightTaskShow.hpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Show/FlightTaskShow.cpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Show/CMakeLists.txt",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/CMakeLists.txt",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Orbit/FlightTaskOrbit.cpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Descend/FlightTaskDescend.cpp",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/ManualPositionSmoothVel/FlightTaskManualPositionSmoothVel.cpp",
+		"/home/mark/code/Firmware/src/drivers/drv_pwm_output.h",
+		"/home/mark/code/Firmware/src/lib/flight_tasks/tasks/Utility/Sticks.hpp",
+		"/home/mark/code/Firmware/src/modules/logger/logged_topics.h",
+		"/home/mark/code/Firmware/src/modules/logger/logged_topics.cpp",
+		"/home/mark/code/Firmware/src/modules/mavlink/mavlink_main.cpp",
+		"/home/mark/code/Firmware/src/modules/mavlink/mavlink_messages.cpp",
+		"/home/mark/Documents/QGroundControl Daily/Parameters/Rogue_1.params",
+		"/home/mark/code/GpsDrivers/src/ubx.cpp",
+		"/home/mark/code/Firmware/src/drivers/gps/devices/src/ashtech.h",
+		"/home/mark/code/Firmware/src/drivers/gps/devices/src/ashtech.cpp",
+		"/home/mark/code/Firmware/src/drivers/gps/devices/src/ubx.h",
+		"/home/mark/code/Firmware/src/drivers/gps/devices/src/ubx.cpp",
+		"/home/mark/code/Firmware/mavlink/include/mavlink/v2.0/common/mavlink_msg_gps_raw_int.h",
+		"/home/mark/code/Firmware/msg/vehicle_gps_position.msg",
+		"/home/mark/code/Firmware/mavlink/include/mavlink/v2.0/common/mavlink_msg_gps_status.h",
+		"/home/mark/code/Firmware/src/modules/mavlink/mavlink_messages.h",
+		"/home/mark/code/Firmware/msg/satellite_info.msg",
+		"/home/mark/code/Firmware/mavlink/include/mavlink/v2.0/common/mavlink_msg_gps2_raw.h",
+		"/home/mark/code/Firmware/build/px4_fmu-v5_default/uORB/topics/satellite_info.h",
+		"/home/mark/code/Firmware/src/drivers/distance_sensor/cm8jl65/CM8JL65.cpp",
+		"/home/mark/code/Firmware/build/px4_fmu-v5_default/msg/tmp/headers/vehicle_gps_position.h",
+		"/home/mark/code/FailsafeModule/SpektrumSerial.cpp",
+		"/home/mark/code/FailsafeModule/SpektrumInterface.cpp",
+		"/home/mark/code/Firmware/src/drivers/dshot/telemetry.cpp",
+		"/home/mark/code/Firmware/src/lib/rc/dsm.cpp",
+		"/home/mark/code/Firmware/src/drivers/spektrum_rc/spektrum_rc.cpp",
+		"/home/mark/code/Firmware/src/modules/logger/logger.cpp",
+		"/home/mark/code/Firmware/src/modules/commander/Arming/PreFlightCheck/checks/ekf2Check.cpp",
+		"/home/mark/code/Firmware/src/modules/commander/Arming/PreFlightCheck/checks/failureDetectorCheck.cpp",
+		"/home/mark/code/Firmware/src/modules/commander/Arming/PreFlightCheck/PreFlightCheck.cpp",
+		"/home/mark/code/Firmware/src/modules/commander/Arming/PreFlightCheck/checks/cpuResourceCheck.cpp",
+		"/home/mark/code/Firmware/build/px4_fmu-v5_default/uORB/topics/vehicle_gps_position.h",
+		"/home/mark/code/Firmware/src/modules/commander/Arming/PreFlightCheck/checks/magConsistencyCheck.cpp",
+		"/home/mark/code/Firmware/src/modules/commander/Arming/PreFlightCheck/checks/accelerometerCheck.cpp",
+		"/home/mark/code/Firmware/src/modules/commander/Arming/PreFlightCheck/checks/gyroCheck.cpp",
+		"/home/mark/code/Firmware/src/modules/commander/Arming/PreFlightCheck/checks/imuConsistencyCheck.cpp",
+		"/home/mark/code/Firmware/src/modules/commander/Arming/PreFlightCheck/checks/airspeedCheck.cpp",
+		"/home/mark/code/Firmware/src/modules/commander/Arming/PreFlightCheck/checks/powerCheck.cpp",
+		"/home/mark/code/Firmware/mavlink/include/mavlink/v2.0/common/mavlink_msg_adsb_vehicle.h",
+		"/home/mark/code/Firmware/mavlink/include/mavlink/v2.0/common/mavlink_msg_gps_global_origin.h",
+		"/home/mark/code/Firmware/src/modules/mavlink/mavlink_stream.cpp",
+		"/home/mark/code/Firmware/ROMFS/px4fmu_common/init.d/rcS",
+		"/home/mark/code/Firmware/ROMFS/px4fmu_common/init.d/rc.vehicle_setup",
+		"/home/mark/code/Firmware/src/lib/ecl/geo/geo.cpp",
+		"/home/mark/code/Firmware/src/lib/rc/dsm.h",
+		"/home/mark/code/Firmware/src/drivers/heater/heater.h",
+		"/home/mark/code/Firmware/src/drivers/heater/heater.cpp",
+		"/home/mark/code/Firmware/src/drivers/distance_sensor/tfmini/TFMINI.cpp",
+		"/home/mark/code/Firmware/src/drivers/distance_sensor/ll40ls/LidarLiteI2C.cpp",
+		"/home/mark/code/Firmware/src/drivers/distance_sensor/vl53l0x/VL53L0X.cpp",
+		"/home/mark/code/Firmware/src/drivers/mkblctrl/mkblctrl.cpp",
+		"/home/mark/code/Firmware/src/drivers/distance_sensor/sf0x/SF0X.hpp",
+		"/home/mark/code/Aker/droneprobe/src/AkerSC2.h",
+		"/home/mark/code/Aker/droneprobe/src/AkerSC2.cpp"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"/home/mark/code/pyulog",
+			"/home/mark/code/pyulog/pyulog"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"from .px4 import PX4ULog",
+			"import px4",
+			"PX4ULog"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pyulog/ulog2csv.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2057,
+								2057
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pyulog/core.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 33339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "pyulog/px4.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pyulog.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 410.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
